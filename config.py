@@ -19,7 +19,7 @@ class Config:
     FORCE_SUB_CHANNEL = os.getenv("FORCE_SUB_CHANNEL", "AnimeKyoto_Bots") # username or ID
     
     # UI
-    START_PIC = os.getenv("START_PIC", "https://ibb.co/XZZhqDs0") # Default image
+    START_PIC = os.getenv("START_PIC", "https://ibb.co/W4zqMjB2") # Default image
     
     # Log Channel
     LOG_CHANNEL = os.getenv("LOG_CHANNEL", "-1003732729909") # Channel ID (e.g. -100xxxx)
